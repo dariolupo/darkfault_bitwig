@@ -1,5 +1,8 @@
 # Darkfault for Bitwig
-A dark theme for Bitwig Studio. This is my idea of what would possibly be an official Dark mode in Bitwig. To be used with [Theme Editor by Berikai](https://github.com/Berikai/bitwig-theme-editor)
+A dark theme for Bitwig Studio. 
+This is my take of what would possibly be an official Dark mode in Bitwig. 
+
+To be used with [Theme Editor by Berikai](https://github.com/Berikai/bitwig-theme-editor)
 
 ## What's included
 - Main .json file to be installed with [Theme Editor](https://github.com/Berikai/bitwig-theme-editor)
