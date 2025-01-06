@@ -14,6 +14,6 @@ A dark theme for Bitwig Studio. This is my idea of what would possibly be an off
 - For the palettes just follow official Bitwig instructions
 
   
-## Screenshots
+## Screenshot
 
 ![Screenshot](https://github.com/dariolupo/darkfault_bitwig/blob/main/darkfault.png)
