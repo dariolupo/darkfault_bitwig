@@ -9,6 +9,7 @@ To be used with [Theme Editor by Berikai](https://github.com/Berikai/bitwig-them
 - A couple optional color palettes that work nice with the theme
 
 ## Instructions
+- Download here: https://github.com/dariolupo/darkfault_bitwig/releases
 - Backup your files and folders!!!
 - Install theme file using [Theme Editor](https://github.com/Berikai/bitwig-theme-editor)
 - If you want to use the included custom icons, replace the original ones in the respective Bitwig app folders:
